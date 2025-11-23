@@ -1,0 +1,7 @@
+{
+  "name": "GraceTracking2025",
+  "description": "A smart billing and packing assistant for managing orders, extracting details via AI, and tracking packing status.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
